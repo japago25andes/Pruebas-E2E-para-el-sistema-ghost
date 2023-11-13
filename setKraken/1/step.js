@@ -1,0 +1,47 @@
+const { Given, When, Then } = require('@cucumber/cucumber');
+
+When('I enter email {kraken-string}', async function (email) {
+    let element = await this.driver.$('#identification');
+    return await element.setValue(email);
+});
+
+When('I enter password {kraken-string}', async function (password) {
+    let element = await this.driver.$('#password');
+    return await element.setValue(password);
+});
+
+When('I click next', async function() {
+    let element = await this.driver.$('#ember5');
+    return await element.click();
+});
+
+Then('I click tags', async function() {
+    let element = await this.driver.$('[href="#/tags/"]');
+    return await element.click();
+});
+
+Then('I click new tag', async function() {
+    let element = await this.driver.$('[href="#/tags/new/"]');
+    return await element.click();
+});
+
+Then('I enter name {string}', async function (name) {
+    let element = await this.driver.$('#tag-name');
+    return await element.setValue(name);
+});
+
+Then('I enter color {string}', async function (color) {
+    let element = await this.driver.$('[name="accent-color"]');
+    return await element.setValue(color);
+});
+
+Then('I enter description {kraken-string}', async function (description) {
+    let element = await this.driver.$('#tag-description');
+    return await element.setValue(description);
+});
+
+Then('I click save', async function() {
+    let element = await this.driver.$('[data-test-button="save"]');
+    return await element.click();
+});
+
