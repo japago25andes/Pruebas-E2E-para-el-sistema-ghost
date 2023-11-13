@@ -1,6 +1,10 @@
 # Video Explicativo
 
-* vinculo
+* https://youtu.be/btCVVB7vZSE
+
+# Importancia de las credenciales de ingreso a ghost
+
+tenga en cuenta que para el ingreso a ghost las pruebas tienen unos por defecto, debe crearlos en su herramienta o de lo contrario cambiarlos por los de su preferencia.
 
 # Configuraciones necesarias para KRAKEN
 
