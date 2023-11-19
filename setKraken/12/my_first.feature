@@ -10,11 +10,11 @@ Scenario: Como usuario quiero crear un nuevo tag en la aplicacion
   And I wait for 1 seconds and take a screenshot
   And I click new tag
   And I wait for 1 seconds and take a screenshot
-  Then I enter name "Camiones"
+  Then I enter a random name for the tag
   And I wait for 1 seconds and take a screenshot
-  And I enter color "38C52D"
+  And I enter a random color for the tag
   And I wait for 1 seconds and take a screenshot
-  And I enter description "<LOREM>"
+  And I enter a random description for the tag
   And I wait for 1 seconds and take a screenshot
   And I click save
   And I wait for 1 seconds and take a screenshot

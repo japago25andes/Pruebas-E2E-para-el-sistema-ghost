@@ -1,18 +1,19 @@
-Feature: Edicion de un tag existente
+Feature: Modificacion de tag
 
 @user1 @web
-Scenario: Como usuario quiero editar un tag existente
-  Given I navigate to page "http://localhost:2368/ghost/#/signin"
-  And I wait for 2 seconds
-  When I enter email "<USERNAME>"
-  And I enter password "<PASSWORD>"
-  And I click next
-  And I wait for 2 seconds
+Scenario: Como usuario quiero poder modificar un tag
+  Given I navigate to page "http://137.184.28.168/ghost/#/signin"
+  And I wait for 1 seconds and take a screenshot
+  When I log in with email "<USERNAME>" and password "<PASSWORD>"
+  And I wait for 1 seconds and take a screenshot
   Then I click tags
-  And I wait for 2 seconds
+  And I wait for 1 seconds and take a screenshot
   And I click ContenidoX...
-  And I wait for 2 seconds
+  And I wait for 1 seconds and take a screenshot
   Then I enter name "Motores V12"
-  And I wait for 2 seconds
+  And I wait for 1 seconds and take a screenshot
   And I click save
-  And I wait for 1 seconds
+  And I wait for 1 seconds and take a screenshot
+  Then I should see the button with class "gh-btn gh-btn-primary gh-btn-icon gh-btn-green ember-view"
+  And I wait for 1 seconds and take a screenshot
+

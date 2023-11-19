@@ -1,14 +1,15 @@
-Feature: Revoke person to staff Contributor
+Feature: Revocar invitacion a un colaborador
 
 @user1 @web
-Scenario: Como usuario poder cancelar la invitacion para contribuir
-  Given I navigate to page "http://localhost:2368/ghost/#/signin"
-  And I wait for 2 seconds
-  When I enter email "<USERNAME>"
-  And I enter password "<PASSWORD>"
-  And I click next
-  
-  And I wait for 2 seconds
+Scenario: Como usuario quiero revocar la invicion a un nuevo colaborador
+  Given I navigate to page "http://137.184.28.168/ghost/#/signin"
+  And I wait for 1 seconds and take a screenshot
+  When I log in with email "<USERNAME>" and password "<PASSWORD>"
+  And I wait for 1 seconds and take a screenshot
   When I click changeConfiguration
+  And I wait for 1 seconds and take a screenshot
   And I click staff
-  And Revoke people invitation
+  And I wait for 1 seconds and take a screenshot
+  And I revoke people invitation
+  And I wait for 1 seconds and take a screenshot
+  
