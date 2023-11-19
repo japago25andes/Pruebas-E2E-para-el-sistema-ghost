@@ -2,9 +2,15 @@
 
 * https://youtu.be/btCVVB7vZSE
 
-# Importancia de las credenciales de ingreso a ghost
+# Para esta semana se hostean las dos versiones de ABP
 
-tenga en cuenta que para el ingreso a ghost las pruebas tienen unos por defecto, debe crearlos en su herramienta o de lo contrario cambiarlos por los de su preferencia.
+* Version 5.72.1:
+  
+http://137.184.28.168/ghost/#/signin
+
+* Version 4.3
+  
+http://68.183.128.146:3001/ghost
 
 # Configuraciones necesarias para KRAKEN
 
