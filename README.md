@@ -1,10 +1,13 @@
 # Video Explicativo
 
 * Semana 5
+
 https://youtu.be/btCVVB7vZSE
 
 * Semana 6
+
 Kraken: assadas
+
 Cypress: sdasdasda
 
 # Para esta semana se hostean las dos versiones de ABP
