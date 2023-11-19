@@ -1,15 +1,18 @@
 # Video Explicativo
 
-* https://youtu.be/btCVVB7vZSE
+* Semana 5
+https://youtu.be/btCVVB7vZSE
+
+* Semana 6
+Kraken: assadas
+Cypress: sdasdasda
 
 # Para esta semana se hostean las dos versiones de ABP
 
-* Version 5.72.1:
-  
+* Version 5.72.1:  
 http://137.184.28.168/ghost/#/signin
 
 * Version 4.3
-  
 http://68.183.128.146:3001/ghost
 
 # Configuraciones necesarias para KRAKEN
