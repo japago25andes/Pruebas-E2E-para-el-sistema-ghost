@@ -1,4 +1,4 @@
-# Videos Explicativo
+# Videos Explicativos
 
 * Semana 5
 
