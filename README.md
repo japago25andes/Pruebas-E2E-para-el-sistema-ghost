@@ -6,7 +6,7 @@ https://youtu.be/btCVVB7vZSE
 
 * Semana 6
 
-Kraken: assadas
+Kraken: https://youtu.be/ah-TSoSZCus
 
 Cypress: sdasdasda
 
