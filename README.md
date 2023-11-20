@@ -1,3 +1,8 @@
+# Recomendaciones importantes
+
+* Realizar la intalacion de la libreria **faker** (Comando: npm install @faker-js/faker --save-dev), varias pruebas utilizan la inyeccion de datos aleatorios tanto en cypress como en kraken
+* Para las pruebas en cypress es recomendable probar tanto en el navegador Chrome como en el navegador Electron
+
 # Videos Explicativos
 
 * **Semana 5**
@@ -8,7 +13,7 @@ https://youtu.be/btCVVB7vZSE
 
 **Kraken:** https://youtu.be/ah-TSoSZCus
 
-**Cypress:** https://www.youtube.com/watch?v=2sFT0ci_k_w
+**Cypress:** https://www.youtube.com/watch?v=2sFT0ci_k_w 
 
 # Para esta semana se hostean las dos versiones de ABP
 
