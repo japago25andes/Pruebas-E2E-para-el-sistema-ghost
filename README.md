@@ -8,7 +8,7 @@ https://youtu.be/btCVVB7vZSE
 
 **Kraken:** https://youtu.be/ah-TSoSZCus
 
-**Cypress:** sdasdasda
+**Cypress:** https://www.youtube.com/watch?v=2sFT0ci_k_w
 
 # Para esta semana se hostean las dos versiones de ABP
 
