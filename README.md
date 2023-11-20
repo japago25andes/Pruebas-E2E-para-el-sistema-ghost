@@ -12,13 +12,18 @@ https://youtu.be/btCVVB7vZSE
 
 # Para esta semana se hostean las dos versiones de ABP
 
-* **Version 5.72.1:**
-  
-http://137.184.28.168/ghost/#/signin
+### **Version 5.72:**
 
-* **Version 4.3:**
-  
-http://68.183.128.146:3001/ghost
+| Direccion | Usuario | Contraseña |
+|-----------|---------|-------------|
+|http://165.22.184.25:3001/ghost|automatizacion@yopmail.com|Automatizacion123|
+
+### **Version 4.3:**
+
+| Direccion | Usuario | Contraseña |
+|-----------|---------|-------------|
+|http://68.183.128.146:3001/ghost|automatizacion@yopmail.com|Automatizacion|
+
 
 # Configuraciones necesarias para KRAKEN
 
