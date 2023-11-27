@@ -15,6 +15,10 @@ https://youtu.be/btCVVB7vZSE
 
 **Cypress:** https://www.youtube.com/watch?v=2sFT0ci_k_w 
 
+* **Semana 7**
+
+https://youtu.be/IPOwk8Hw474
+
 # Para esta semana se hostean las dos versiones de ABP
 
 ### **Version 5.72:**
