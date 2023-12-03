@@ -23,21 +23,11 @@ https://youtu.be/IPOwk8Hw474
 
 https://youtu.be/OIztJw9Lg3Q
 
-
-# Para esta semana se hostean las dos versiones de ABP
-
-### **Version 5.72:**
+# **Version de Ghost 5.72, utilizada para la estrategia de pruebas:**
 
 | Direccion | Usuario | Contraseña |
 |-----------|---------|-------------|
 |http://165.22.184.25:3001/ghost|automatizacion@yopmail.com|Automatizacion123|
-
-### **Version 4.3:**
-
-| Direccion | Usuario | Contraseña |
-|-----------|---------|-------------|
-|http://68.183.128.146:3001/ghost|automatizacion@yopmail.com|Automatizacion|
-
 
 # Configuraciones necesarias para KRAKEN
 
