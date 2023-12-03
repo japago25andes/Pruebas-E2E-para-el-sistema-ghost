@@ -19,6 +19,11 @@ https://youtu.be/btCVVB7vZSE
 
 https://youtu.be/IPOwk8Hw474
 
+* **Semana 8**
+
+https://youtu.be/OIztJw9Lg3Q
+
+
 # Para esta semana se hostean las dos versiones de ABP
 
 ### **Version 5.72:**
